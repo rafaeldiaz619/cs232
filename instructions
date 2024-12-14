@@ -1,4 +1,0 @@
-In this project, you will implement an interpreter for CI LISP, a Channel Islands Lisp-like language.
-Each task below will expand the grammar. 
-Your job is to expand the lexer, parser, data structures, parsing methods, and evaluation methods to meet the new requirements. 
-The files provided will build
